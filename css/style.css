@@ -1,0 +1,32 @@
+/* header{
+    background-color: rgb(188, 245, 247);
+    width: 100%;
+    padding: 5px;
+
+}
+
+.header{
+    background-color: rgb(35, 206, 189);
+    width: 100%;
+    padding: 5px;
+    
+}
+
+#header{
+    background-color: rgb(206, 35, 58);
+    width: 100%;
+    padding: 5px;
+    color: aliceblue;
+} */
+
+.border-danger-img{
+    background-color: #f834348c !important;
+}
+
+.text-pink{
+    color: #d63384;
+}
+
+.text-brown{
+    color: rgb(158, 79, 18);
+}
